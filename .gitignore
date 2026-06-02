@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+
+# NEVER upload API keys!
+.env
+
+# Ignore the heavy database files and Mac system files
+chroma_db/
+.DS_Store
