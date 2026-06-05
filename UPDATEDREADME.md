@@ -6,7 +6,7 @@
 
 A premium, strictly monochromatic interactive web application acting as a "Digital Twin" for AI researcher Andrej Karpathy. This dual-stack architecture combines a highly customized, brutalist Streamlit frontend with a streaming Flask backend powered by LangChain, Hugging Face, and ChromaDB.
 
-🌐 **Live Interface:** [andrej-k-twin-awm8rzhs7m2rgde4xtlxvk.streamlit.app](https://andrej-k-twin-awm8rzhs7m2rgde4xtlxvk.streamlit.app/)
+🌐 **Live Interface:** [andrej-k-twin-awm8rzhs7m2rgde4xtlxvk.streamlit.app](https://andrej-k-twin-awm8rzhs7m2rgde4xtlxvk.streamlit.app/) (Backend Might not work because of the cloud space limit)
 
 ---
 
