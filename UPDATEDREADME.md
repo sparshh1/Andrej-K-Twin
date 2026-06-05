@@ -1,4 +1,4 @@
-# ANDREJ KARPATHY // DIGITAL TWIN ARCHIVE
+# ANDREJ KARPATHY / DIGITAL TWIN 
 
 [![Live App](https://img.shields.io/badge/Live_Application-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit)](https://andrej-k-twin-awm8rzhs7m2rgde4xtlxvk.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
