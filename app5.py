@@ -167,7 +167,7 @@ class Value:
 """
 st.markdown(f'<div class="matrix-bg">{matrix_code * 20}</div>', unsafe_allow_html=True)
 
-BACKEND_URL = "http://127.0.0.1:5000/api/chat"
+BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:5000/api/chat")
 
 if "view" not in st.session_state:
     st.session_state.view = "archive"
